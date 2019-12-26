@@ -1,1 +1,1 @@
-# logstash
+# logstash configuration file for processing haproxy and cloudflare logs into elasticsearch
